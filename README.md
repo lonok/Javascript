@@ -3,5 +3,5 @@
 USE:
 number_format(string,decimals=2,decimal=',',thousands='.',pre='R$ ',pos=' $')
 
-EXAMPLE
+EXAMPLE:
 var money = number_format("10987654321",2,',','.','R$ ','');
